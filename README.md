@@ -33,7 +33,7 @@ This project demonstrates advanced **data visualization** and **business intelli
 
 ## 🚀 Usage
 - Clone or download this repository.  
-- Open the file `finance-dashboard.pbix` in **Power BI Desktop**.  
+
 - Explore interactive visuals, apply filters, and analyze financial insights.  
 
 ---
