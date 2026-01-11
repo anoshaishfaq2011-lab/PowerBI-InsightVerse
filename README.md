@@ -1,6 +1,6 @@
 # PowerBI-InsightVerse
 A portfolio of Power BI dashboards showcasing hands-on data analytics skills, developed through continuous learning and practical projects.
-# 📊 Sales Overtrend Dashboard
+# 📊 Sales data Over trend Dashboard
 
 ![Dashboard Screenshot](./sales-overtrend.png)
 
